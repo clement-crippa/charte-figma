@@ -1,0 +1,26 @@
+:root {
+    --hot-magenta: #f325c7;
+    ---grape: #762a9e;
+    --japanese-indigo: #1e4657;
+    --aqua: #07fcfe;
+    --cyan-process: #07c4e8;
+    --vivid-sky-blue: #00d9ff;
+}
+
+body {
+    font-family: 'Cairo', serif;
+    font-size: 25px;
+}
+
+header {
+    font-family: 'Cairo', serif;
+    font-size: 50px;
+}
+footer {
+    font-family: 'Cairo', serif;
+    font-size: 50px;
+}
+h1 {
+    font-family: 'Cairo', serif;
+    font-size: 30px;
+}
